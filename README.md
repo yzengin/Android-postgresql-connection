@@ -1,5 +1,4 @@
-# android-postgresql-connection
-Android PostgreSQL Connection
+# Android PostgreSQL Connection
 Yakup Zengin
 Rich Design
 http://www.designsrich.com
